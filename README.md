@@ -1,24 +1,15 @@
-# gur-level-editor
+# gur-level-editor v0.1.0
 
-## Project setup
-```
-npm install
-```
+> Cross-platform FOSS level editor for Give Up Robot 1. WIP, obviously.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Installation
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Windows
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Linux
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Usage
+
+### Using the Editor
+
+### Playing Your Levels in GUR1
